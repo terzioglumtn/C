@@ -260,7 +260,7 @@ int calculate_average(int d, int n, int* heat)
 	}
 	if (maxweek == 2)
 	{
-		printf("\WARMEST week = 2nd week : %.2fC ",average[1]);
+		printf("\nWARMEST week = 2nd week : %.2fC ",average[1]);
 		printf("\n********************************");
 	}
 	if (maxweek == 3)
